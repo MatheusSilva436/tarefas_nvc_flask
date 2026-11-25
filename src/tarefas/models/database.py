@@ -115,7 +115,3 @@ def init_db(sql_filepath=SQL_PATH):
 Tudo o que for rescrito dessa área
 será lido e executado como string.
 """
-# db = Database()
-# db.conectar()
-# print(db.executar('select * from tipos_combustivel;'))
-# db.desconectar()
